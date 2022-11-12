@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Redirecting...</title>
+		<meta http-equiv="refresh" content="0;url=https://blog.uptin.vn/sitemap-index.xml">
+	</head>
+	<body>
+		<script type="text/javascript">
+			window.location = "https://blog.uptin.vn/sitemap-index.xml";
+		</script>
+
+		<p>You are being redirected to <a href="https://blog.uptin.vn/sitemap-index.xml">https://blog.uptin.vn/sitemap-index.xml</a></p>
+	</body>
+</html>
