@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Tin tức Archives - Blog</title>
+	<atom:link href="https://blog.uptin.vn/category/tin-tuc/feed/" rel="self" type="application/rss+xml" />
+	<link>https://blog.uptin.vn/category/tin-tuc/</link>
+	<description>Blog cập nhật thông tin phần mềm Uptin cho người kinh doanh bất động sản</description>
+	<lastBuildDate>Thu, 20 Oct 2022 08:49:19 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1</generator>
+
+<image>
+	<url>https://blog.uptin.vn/wp-content/uploads/2022/10/cropped-cropped-uptin-new-32x32.png</url>
+	<title>Tin tức Archives - Blog</title>
+	<link>https://blog.uptin.vn/category/tin-tuc/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Chúc mừng ngày phụ nữ Việt Nam 20/10</title>
+		<link>https://blog.uptin.vn/vietnamese-woman-day/</link>
+					<comments>https://blog.uptin.vn/vietnamese-woman-day/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Thu, 20 Oct 2022 03:49:08 +0000</pubDate>
+				<category><![CDATA[Tin tức]]></category>
+		<guid isPermaLink="false">https://blog.uptin.vn/?p=329</guid>
+
+					<description><![CDATA[<img width="1024" height="768" src="https://blog.uptin.vn/wp-content/uploads/2022/10/z2133969818652_8abd6c05d4e3871839278648a4564b19.jpg" class="attachment-large size-large wp-post-image" alt="" decoding="async" srcset="https://blog.uptin.vn/wp-content/uploads/2022/10/z2133969818652_8abd6c05d4e3871839278648a4564b19.jpg 1024w, https://blog.uptin.vn/wp-content/uploads/2022/10/z2133969818652_8abd6c05d4e3871839278648a4564b19-300x225.jpg 300w, https://blog.uptin.vn/wp-content/uploads/2022/10/z2133969818652_8abd6c05d4e3871839278648a4564b19-768x576.jpg 768w" sizes="(max-width: 1024px) 100vw, 1024px" /><p>Thay mặt team Uptin, xin chúc tất cả các chị em phụ nữ Việt Nam luôn trẻ trung xinh đẹp và hạnh phúc.</p>
+<p>The post <a rel="nofollow" href="https://blog.uptin.vn/vietnamese-woman-day/">Chúc mừng ngày phụ nữ Việt Nam 20/10</a> appeared first on <a rel="nofollow" href="https://blog.uptin.vn">Blog</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<img width="1024" height="768" src="https://blog.uptin.vn/wp-content/uploads/2022/10/z2133969818652_8abd6c05d4e3871839278648a4564b19.jpg" class="attachment-large size-large wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://blog.uptin.vn/wp-content/uploads/2022/10/z2133969818652_8abd6c05d4e3871839278648a4564b19.jpg 1024w, https://blog.uptin.vn/wp-content/uploads/2022/10/z2133969818652_8abd6c05d4e3871839278648a4564b19-300x225.jpg 300w, https://blog.uptin.vn/wp-content/uploads/2022/10/z2133969818652_8abd6c05d4e3871839278648a4564b19-768x576.jpg 768w" sizes="(max-width: 1024px) 100vw, 1024px" />
+<p>Thay mặt team Uptin, xin chúc tất cả các chị em phụ nữ Việt Nam luôn trẻ trung xinh đẹp và hạnh phúc.</p>
+<p>The post <a rel="nofollow" href="https://blog.uptin.vn/vietnamese-woman-day/">Chúc mừng ngày phụ nữ Việt Nam 20/10</a> appeared first on <a rel="nofollow" href="https://blog.uptin.vn">Blog</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://blog.uptin.vn/vietnamese-woman-day/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
