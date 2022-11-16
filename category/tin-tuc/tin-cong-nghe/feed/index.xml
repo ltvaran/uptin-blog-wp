@@ -12,13 +12,13 @@
 	<atom:link href="https://blog.uptin.vn/category/tin-tuc/tin-cong-nghe/feed/" rel="self" type="application/rss+xml" />
 	<link>https://blog.uptin.vn/category/tin-tuc/tin-cong-nghe/</link>
 	<description>Blog cập nhật thông tin phần mềm Uptin cho người kinh doanh bất động sản</description>
-	<lastBuildDate>Sat, 12 Nov 2022 10:55:16 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 16 Nov 2022 09:06:24 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.1</generator>
+	<generator>https://wordpress.org/?v=6.1.1</generator>
 
 <image>
 	<url>https://blog.uptin.vn/wp-content/uploads/2022/10/cropped-cropped-uptin-new-32x32.png</url>
