@@ -75,7 +75,55 @@ img.emoji {
 
 					<meta name="ssp-config-url" content="https://blog.uptin.vn/wp-content/uploads/simply-static/configs/">
 		
-				<link rel="icon" href="https://blog.uptin.vn/wp-content/uploads/2022/10/cropped-cropped-uptin-new-32x32.png" sizes="32x32">
+				      <meta name="onesignal" content="wordpress-plugin">
+            <script>
+
+      window.OneSignal = window.OneSignal || [];
+
+      OneSignal.push( function() {
+        OneSignal.SERVICE_WORKER_UPDATER_PATH = 'OneSignalSDKUpdaterWorker.js';
+                      OneSignal.SERVICE_WORKER_PATH = 'OneSignalSDKWorker.js';
+                      OneSignal.SERVICE_WORKER_PARAM = { scope: '/blog/wp-content/plugins/onesignal-free-web-push-notifications/sdk_files/push/onesignal/' };
+        OneSignal.setDefaultNotificationUrl("https://uptin.shop/blog");
+        var oneSignal_options = {};
+        window._oneSignalInitOptions = oneSignal_options;
+
+        oneSignal_options['wordpress'] = true;
+oneSignal_options['appId'] = '274877a6-f6e4-40d4-a263-e9f33dc399cd';
+oneSignal_options['allowLocalhostAsSecureOrigin'] = true;
+oneSignal_options['welcomeNotification'] = { };
+oneSignal_options['welcomeNotification']['title'] = "";
+oneSignal_options['welcomeNotification']['message'] = "";
+oneSignal_options['path'] = "https://uptin.shop/blog/wp-content/plugins/onesignal-free-web-push-notifications/sdk_files/";
+oneSignal_options['safari_web_id'] = "web.onesignal.auto.4463433a-b41c-4a34-809b-879a9d93883b";
+oneSignal_options['promptOptions'] = { };
+oneSignal_options['notifyButton'] = { };
+oneSignal_options['notifyButton']['enable'] = true;
+oneSignal_options['notifyButton']['position'] = 'bottom-right';
+oneSignal_options['notifyButton']['theme'] = 'default';
+oneSignal_options['notifyButton']['size'] = 'medium';
+oneSignal_options['notifyButton']['showCredit'] = true;
+oneSignal_options['notifyButton']['text'] = {};
+          /* OneSignal: Using custom SDK initialization. */
+                });
+
+      function documentInitOneSignal() {
+        var oneSignal_elements = document.getElementsByClassName("OneSignal-prompt");
+
+        var oneSignalLinkClickHandler = function(event) { OneSignal.push(['registerForPushNotifications']); event.preventDefault(); };        for(var i = 0; i < oneSignal_elements.length; i++)
+          oneSignal_elements[i].addEventListener('click', oneSignalLinkClickHandler, false);
+      }
+
+      if (document.readyState === 'complete') {
+           documentInitOneSignal();
+      }
+      else {
+           window.addEventListener("load", function(event){
+               documentInitOneSignal();
+          });
+      }
+    </script>
+<link rel="icon" href="https://blog.uptin.vn/wp-content/uploads/2022/10/cropped-cropped-uptin-new-32x32.png" sizes="32x32">
 <link rel="icon" href="https://blog.uptin.vn/wp-content/uploads/2022/10/cropped-cropped-uptin-new-192x192.png" sizes="192x192">
 <link rel="apple-touch-icon" href="https://blog.uptin.vn/wp-content/uploads/2022/10/cropped-cropped-uptin-new-180x180.png">
 <meta name="msapplication-TileImage" content="https://blog.uptin.vn/wp-content/uploads/2022/10/cropped-cropped-uptin-new-270x270.png">
@@ -204,7 +252,7 @@ img.emoji {
 
 
 <ul>
-<li>Gói doanh nghiệp</li>
+<li><a href="https://blog.uptin.vn/goi-doanh-nghiep/">Gói doanh nghiệp</a></li>
 
 
 
@@ -303,5 +351,6 @@ img.emoji {
 		sibling.parentElement.insertBefore( skipLink, sibling );
 	}() );</script>
 			<span class="ssp-id" style="display:none">679</span>
-		</body>
+		<script src="https://cdn.onesignal.com/sdks/OneSignalSDK.js?ver=6.1.1" async="async" id="remote_sdk-js"></script>
+</body>
 </html>
